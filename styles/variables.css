@@ -1,4 +1,7 @@
 :root {
-  --main-color: hotpink;
-  --pane-padding: 5px 42px;
+  --primary-color: #004fff;
+  --secondary-color: #293150;
+  --white-color: #fff;
+  --grey-color: #959bb7;
+  --bg-color: #fdfdfe;
 }
